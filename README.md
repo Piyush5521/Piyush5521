@@ -7,7 +7,6 @@
 - 📫 piyushagarwal1408@gmail.com
 - :globe_with_meridians: https://piyushagarwal.netlify.app
 
-![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piyush5521&show_icons=true&theme=highcontrast)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush5521&hide_progress=true)
 
+![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piyush5521&show_icons=true&theme=highcontrast)
