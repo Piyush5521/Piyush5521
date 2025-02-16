@@ -1,5 +1,4 @@
-# Piyush Agarwal
-
+# Piyush Agarwa
 - 👋 Hi, I’m @PiyushAgarwal14
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React JS
