@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @PiyushAgarwal14
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React JS
-- 💞️ I’m looking for frrlance Web Development Project 
+- 💞️ I’m looking for freelance Web Development Project 
 - 📫 piyushagarwal1408@gmail.com
 - :globe_with_meridians: https://piyushagarwal.netlify.app
 
